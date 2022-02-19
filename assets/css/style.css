@@ -1,0 +1,306 @@
+/* html {
+  font-family: Raleway, sans-serif;
+} */
+body{
+  margin top: 0px;
+  font-family: 'Raleway', sans-serif;
+  width: auto;
+  }
+
+body *{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+
+h1{
+  text-align:center;font-size:50px; font-weight:500;
+  color: #ffffff;
+  }
+
+h2{
+  margin-top: 10px;font-size:24px; font-weight:300;
+}
+
+header{
+  background-color: #000000;
+  color: #ffffff;
+  margin-top: 0px;
+  height: 73px;
+}
+
+.articulo{
+  display: block;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+
+.img1{
+  width: 399px;
+  height: 237px;
+
+
+}
+
+.iguanas{
+  width: 316px;
+  height: 202px;
+  margin-left: 16px;
+}
+
+
+.icono_1{
+display: inline-block;
+margin-left: 0px;
+padding-bottom: 15.36px;
+opacity: 1;
+text-align: center;
+}
+
+.icono_2{
+display: inline-block;
+margin-left: 250px;
+padding-bottom: 15.36px;
+opacity: 1;
+text-align: center;
+}
+
+.icono_3{
+display: inline-block;
+margin-left: 200px;
+padding-bottom: 15.36px;
+opacity: 1;
+text-align: center;
+}
+
+/* #galeria{
+  width: 980px;
+  height: 200px;
+} */
+
+
+/* .icono1{
+  display: inline-block;
+  top: 1333px;
+  font-size: 15px;
+}
+
+.icono2{
+  display: inline-block;
+  font-size: 15px;
+}
+
+.icono3{
+  display: inline-block;
+} */
+
+
+.horizontal1{
+display: inline-block;
+margin-top: 45px;
+}
+
+
+.horizontal2{
+    display: inline-block;
+  }
+
+
+  .seccion_1{
+    background-image: url('../img/bg-header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    height: 727px;
+  }
+
+  .seccion_2{
+    height: 348px;
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+
+  .Seccion_3{
+background-color: #1E1A13;
+opacity: 0.98;
+height: 348px;
+color: #ffffff;
+}
+
+.S_3{
+  text-align: center;
+}
+
+.titulo_S3{
+
+  padding-top:75px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+
+.S1_texto{
+margin-top: 45px;
+margin-left: 0;
+margin-right: 15%;
+display: inline-block;
+overflow: hidden;
+width: 475px;
+height: 197px;
+
+}
+
+
+.seccion_4{
+  padding-top: 73px;
+  padding-bottom: 73px;
+  background-color: #000000;
+  text-align: center;
+
+}
+
+
+
+div p{
+text-align: justify; font-size:16px; font-weight:300;
+}
+
+
+footer p{
+  padding-top: 36px;
+  padding-bottom: 36px;
+  text-align: center; font-size:20px; font-weight:300;
+  background-color: #1E1A13;
+  color: #ffffff;
+}
+
+
+  /* .desc-section{
+    height: 303px;
+    width: 980px;
+    align: center;
+    padding-top: 45px;
+    margin: 0 auto;
+  }
+
+  .desc-section img{
+    padding-bottom: 0px;
+    height: 237px;
+    width: 399px;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: black;
+  }
+
+  .textos-descripcion{
+    display: inline-block;
+    width: 475px;
+    font-size: 16px;
+    padding-bottom: 0px;
+    font-family: "Raleway" Medium;
+    margin-right: 102px;
+    vertical-align: middle;
+    text-align: left;
+    top: 876px;
+
+  }
+ */
+
+  /* .seccion4{
+    height: 250px;
+    background-color: #000000;
+  display: block:250px;
+  padding-top: 50px;
+} */
+
+/* #seccioncaracteristicas{
+  display: block;
+  background-color: #1E1A13;
+  height: 300px;
+  color: #ffffff;
+  text-align: center;
+  top: 1141px;
+
+} */
+
+
+
+/* header{
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+header img{
+
+  width: 100%;
+} */
+
+
+/* .oscuro{
+  background: #000f08;
+  color: #ffffff;
+  top: 0;
+} */
+
+
+
+
+
+/* .caracteristicas{
+  height: 273px;
+  width: 100%;
+  background-color: #1E1A13;
+  opacity: 0.98;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 75px;
+  text-align: center;
+}
+
+.caracteristicas h2{
+  text-align: center;
+  font-family: Raleway, Medium;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 0px;
+  color: #ffffff;
+} */
+
+/* section, footer{
+  margin-top: 4.5rem;
+} */
+
+/* .hero-section{
+  height: 727px;
+  background-image: url('../img/bg-header.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+  width: 100%;
+} */
+
+/* .S1texto{
+  margin-top: 45px;
+  margin-left: 15%;
+  margin-right: 15%;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 475px;
+  height: 197px;
+} */
+
+
+/* .secciongaleria{
+  background-color: #000000;
+  display: block:250px;
+  height: 250px;
+  padding-top: 50px;
+  } */
